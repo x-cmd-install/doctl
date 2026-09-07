@@ -5,7 +5,7 @@ about:
   head: 5f5c33e
   archived: false
   latestVersion: "v1.168.0-beta.7"
-  collectedAt: 2026-09-07T05:47:48Z
+  collectedAt: 2026-09-07T18:41:01Z
 timeline:
   created: 2015-05-29
   lastCommit: 2026-09-03
@@ -83,7 +83,7 @@ total:
   commit: 2603
 ---
 path: /home/runner/.x-repo/github.com/digitalocean/doctl
-collectedAt: 2026-09-07T05:47:56Z
+collectedAt: 2026-09-07T18:41:09Z
 loc:
   Go:
     code: 965168
@@ -304,7 +304,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:47:58+00:00
+  collectedAt: 2026-09-07T18:41:10+00:00
   platform:
     darwin/arm64:
       name:  doctl-1.168.0-darwin-arm64.tar.gz
