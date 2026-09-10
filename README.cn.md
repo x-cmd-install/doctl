@@ -1,62 +1,62 @@
 # doctl
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 The official command line interface for the DigitalOcean API.
 
-![doctl](https://repo.x-cmd.io/doctl.svg)
+![doctl](https://repo.x-cmd.io/doctl.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install doctl
 ```
 
-## Code insight
+## 代码规模
 
-Total: **999,381** lines of code across **3356** files in the top 5 languages.
+合计: **999,381** 行代码（覆盖前 5 种语言、共 **3356** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 965,231 | 132,802 | 98,863 | 3194 |
 | Yaml | 12,373 | 64 | 338 | 12 |
 | AssemblyGAS | 12,203 | 1,159 | 2,718 | 65 |
 | Protobuf | 5,990 | 13,968 | 3,673 | 56 |
 | Sh | 2,086 | 238 | 214 | 29 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.9 / 10**
+总评分: **5.9 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/digitalocean/doctl>
-- **Homepage**: <https://docs.digitalocean.com/reference/doctl/>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/digitalocean/doctl>
+- **官网**: <https://docs.digitalocean.com/reference/doctl/>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v1.168.0-beta.10` (2026-08-31)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 10
+- **最新版本**: `v1.168.0-beta.10` (2026-08-31)
+- **最近提交**: 2026-09-08
+- **Release 含资产**: 10 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 3,449 · **Forks**: 496 · **Open issues**: 536 · **Contributors**: 247
+- **Star**: 3,449 · **Fork**: 496 · **开放 issue**: 536 · **贡献者**: 247
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 261 · **Merged PRs**: 1240 · **Open PRs**: 55 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2604
+- **发布数**: 261 · **已合并 PR**: 1240 · **开放 PR**: 55 · **已关闭 issue**: 426 · **开放 issue**: 110 · **提交数**: 2604
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 29 | 35 | 15 | 0 | 0 | 5 |
 | last60d | 2026-07-12 | 38 | 52 | 23 | 1 | 2 | 17 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 69 | 113 | 47 | 9 | 17 | 75 |
 | last720d | 2024-09-20 | 100 | 233 | 50 | 20 | 38 | 196 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [doctl-1.168.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-checksums.sha256) | 881 B | `other` |
 | [doctl-1.168.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-darwin-amd64.tar.gz) | 18.4 MiB | `native/darwin/x64` |
 | [doctl-1.168.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-darwin-arm64.tar.gz) | 17.3 MiB | `native/darwin/arm64` |
@@ -80,12 +80,12 @@ Lowest-scoring checks:
 | [doctl-1.168.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-windows-amd64.zip) | 18.0 MiB | `native/win/x64` |
 | [doctl-1.168.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-windows-arm64.zip) | 16.3 MiB | `native/win/arm64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **80** distros on [repology.org](https://repology.org/project/doctl). **10** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/doctl) 上共有 **80** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `1.168.0` | ✅ latest |
 | Homebrew | `1.168.0` | ✅ latest |
 | Fedora rawhide | `1.164.0` | ⚠️ outdated |
@@ -93,13 +93,13 @@ Reported by **80** distros on [repology.org](https://repology.org/project/doctl)
 | Void | `1.166.0` | ⚠️ outdated |
 | Alpine edge | `1.166.0` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+doctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `doctl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/doctl.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/doctl.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:03:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:03:56Z._
