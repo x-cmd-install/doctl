@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.168.0-beta.10"
   latestRelease: "v1.168.0"
   latestPrerelease: "v1.168.0-beta.10"
-  collectedAt: 2026-09-10T21:03:43Z
+  collectedAt: 2026-09-10T22:49:38Z
 timeline:
   created: 2015-05-29
   lastCommit: 2026-09-08
@@ -87,7 +87,7 @@ total:
   commit: 2604
 ---
 path: /home/runner/.x-repo/github.com/digitalocean/doctl
-collectedAt: 2026-09-10T21:03:50Z
+collectedAt: 2026-09-10T22:49:50Z
 loc:
   Go:
     code: 965231

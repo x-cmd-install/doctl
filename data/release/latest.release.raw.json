@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 19314861,
       "digest": "sha256:67189d0f83e2938382ff946748207cf3b2b7ddbfbfed43ffd718ffe9f03259e6",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-08-31T13:19:53Z",
       "updated_at": "2026-08-31T13:19:55Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18116420,
       "digest": "sha256:c945952e174146f120593b48d840680b652974b3a3bd19789b1bccfec4d98564",
-      "download_count": 359,
+      "download_count": 360,
       "created_at": "2026-08-31T13:19:51Z",
       "updated_at": "2026-08-31T13:19:53Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18449475,
       "digest": "sha256:ad817330e1a12fd60729f105d8c39af31ca845f221a60886a1b2215f74d9b35d",
-      "download_count": 176794,
+      "download_count": 177822,
       "created_at": "2026-08-31T13:19:53Z",
       "updated_at": "2026-08-31T13:19:54Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16863470,
       "digest": "sha256:cb5bc103b00e83021f348e555df703f9b5a40d50be5ddbd549e867f4039ae3cb",
-      "download_count": 2038,
+      "download_count": 2040,
       "created_at": "2026-08-31T13:19:53Z",
       "updated_at": "2026-08-31T13:19:54Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-linux-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 18224808,
       "digest": "sha256:94b7cecec3da57fa2ceda3c725d958d63abae61af7dc2ef5ba40514b93627126",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-08-31T13:19:51Z",
       "updated_at": "2026-08-31T13:19:53Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-windows-386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18848686,
       "digest": "sha256:c984844b12eadaba6898c08eff60ebc89cb36f1176dd9c941eb4dfeef2e980d6",
-      "download_count": 1013,
+      "download_count": 1020,
       "created_at": "2026-08-31T13:19:51Z",
       "updated_at": "2026-08-31T13:19:53Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-windows-amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17095484,
       "digest": "sha256:61a296617ea7dad7937773b30ab53f6536fc82a1f794151614b01fe4553e4019",
-      "download_count": 40,
+      "download_count": 42,
       "created_at": "2026-08-31T13:19:53Z",
       "updated_at": "2026-08-31T13:19:54Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v1.168.0/doctl-1.168.0-windows-arm64.zip"
