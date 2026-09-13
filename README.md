@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,449 · **Forks**: 496 · **Open issues**: 536 · **Contributors**: 247
+- **Stars**: 3,449 · **Forks**: 496 · **Open issues**: 536 · **Contributors**: 248
 
 ## Totals (cumulative)
 
-- **Releases**: 261 · **Merged PRs**: 1240 · **Open PRs**: 55 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2604
+- **Releases**: 261 · **Merged PRs**: 1241 · **Open PRs**: 55 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2604
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 27 | 32 | 14 | 0 | 0 | 5 |
-| last60d | 2026-07-13 | 38 | 52 | 22 | 1 | 2 | 17 |
-| 90d | 2026-06-13 | 49 | 60 | 25 | 1 | 5 | 22 |
-| last180d | 2026-03-15 | 60 | 85 | 35 | 4 | 8 | 49 |
-| 360d | 2025-09-16 | 69 | 112 | 47 | 9 | 17 | 75 |
-| last720d | 2024-09-21 | 100 | 233 | 50 | 20 | 38 | 195 |
+| 30d | 2026-08-14 | 26 | 31 | 14 | 0 | 0 | 5 |
+| last60d | 2026-07-15 | 38 | 51 | 21 | 1 | 2 | 17 |
+| 90d | 2026-06-15 | 49 | 61 | 25 | 1 | 5 | 22 |
+| last180d | 2026-03-17 | 60 | 85 | 34 | 4 | 7 | 49 |
+| 360d | 2025-09-18 | 69 | 112 | 47 | 9 | 17 | 75 |
+| last720d | 2024-09-23 | 100 | 234 | 50 | 20 | 38 | 195 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/doctl). **10** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **11** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:00:36Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:01:45Z._
