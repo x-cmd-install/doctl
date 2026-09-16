@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **999,381** lines of code across **3356** files in the top 5 languages.
+Total: **999,384** lines of code across **3356** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 965,231 | 132,802 | 98,863 | 3194 |
+| Go | 965,234 | 132,802 | 98,863 | 3194 |
 | Yaml | 12,373 | 64 | 338 | 12 |
 | AssemblyGAS | 12,203 | 1,159 | 2,718 | 65 |
 | Protobuf | 5,990 | 13,968 | 3,673 | 56 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.168.0-beta.12` (2026-08-31)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,449 · **Forks**: 496 · **Open issues**: 536 · **Contributors**: 248
+- **Stars**: 3,450 · **Forks**: 497 · **Open issues**: 536 · **Contributors**: 248
 
 ## Totals (cumulative)
 
-- **Releases**: 263 · **Merged PRs**: 1241 · **Open PRs**: 55 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2604
+- **Releases**: 263 · **Merged PRs**: 1244 · **Open PRs**: 59 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 28 | 31 | 14 | 0 | 0 | 5 |
-| last60d | 2026-07-17 | 40 | 50 | 19 | 1 | 1 | 15 |
-| 90d | 2026-06-17 | 50 | 60 | 25 | 1 | 5 | 22 |
-| last180d | 2026-03-19 | 61 | 84 | 34 | 4 | 7 | 41 |
-| 360d | 2025-09-20 | 71 | 111 | 47 | 9 | 17 | 72 |
-| last720d | 2024-09-25 | 100 | 233 | 50 | 18 | 38 | 195 |
+| 30d | 2026-08-17 | 28 | 34 | 19 | 0 | 0 | 6 |
+| last60d | 2026-07-18 | 40 | 53 | 24 | 1 | 1 | 16 |
+| 90d | 2026-06-18 | 50 | 62 | 30 | 1 | 5 | 23 |
+| last180d | 2026-03-20 | 61 | 84 | 38 | 4 | 7 | 42 |
+| 360d | 2025-09-21 | 71 | 114 | 51 | 9 | 17 | 73 |
+| last720d | 2024-09-26 | 100 | 235 | 54 | 18 | 38 | 196 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:27:32Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:23:55Z._
