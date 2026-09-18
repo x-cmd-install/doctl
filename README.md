@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.168.0-beta.13` (2026-08-31)
+- **Latest**: `v1.168.0-beta.16` (2026-08-31)
 - **Last commit**: 2026-09-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,450 · **Forks**: 497 · **Open issues**: 536 · **Contributors**: 249
+- **Stars**: 3,450 · **Forks**: 499 · **Open issues**: 536 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 1248 · **Open PRs**: 58 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2606
+- **Releases**: 267 · **Merged PRs**: 1253 · **Open PRs**: 54 · **Closed issues**: 426 · **Open issues**: 110 · **Commits**: 2606
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 28 | 36 | 18 | 0 | 0 | 7 |
-| last60d | 2026-07-19 | 41 | 57 | 23 | 1 | 1 | 17 |
-| 90d | 2026-06-19 | 51 | 66 | 29 | 1 | 5 | 24 |
-| last180d | 2026-03-21 | 62 | 88 | 37 | 3 | 7 | 43 |
-| 360d | 2025-09-22 | 72 | 117 | 50 | 9 | 17 | 74 |
-| last720d | 2024-09-27 | 100 | 239 | 53 | 18 | 38 | 195 |
+| 30d | 2026-08-19 | 29 | 40 | 14 | 0 | 0 | 7 |
+| last60d | 2026-07-20 | 44 | 61 | 19 | 1 | 1 | 17 |
+| 90d | 2026-06-20 | 54 | 71 | 25 | 1 | 5 | 24 |
+| last180d | 2026-03-22 | 65 | 93 | 33 | 3 | 7 | 43 |
+| 360d | 2025-09-23 | 74 | 122 | 46 | 9 | 16 | 74 |
+| last720d | 2024-09-28 | 100 | 244 | 49 | 18 | 38 | 195 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:27:06Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:06:28Z._
