@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 509 · **Open issues**: 536 · **Contributors**: 264
+- **Stars**: 3,454 · **Forks**: 509 · **Open issues**: 536 · **Contributors**: 264
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 1288 · **Open PRs**: 57 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2631
+- **Releases**: 279 · **Merged PRs**: 1288 · **Open PRs**: 58 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 25 | 50 | 17 | 0 | 0 | 28 |
-| last60d | 2026-08-03 | 48 | 84 | 22 | 0 | 0 | 33 |
-| 90d | 2026-07-04 | 61 | 102 | 28 | 2 | 2 | 46 |
-| last180d | 2026-04-05 | 75 | 123 | 34 | 4 | 6 | 65 |
-| 360d | 2025-10-07 | 84 | 154 | 46 | 7 | 15 | 96 |
-| last720d | 2024-10-12 | 100 | 277 | 52 | 19 | 37 | 218 |
+| 30d | 2026-09-03 | 24 | 46 | 18 | 0 | 0 | 28 |
+| last60d | 2026-08-04 | 48 | 84 | 23 | 0 | 0 | 33 |
+| 90d | 2026-07-05 | 61 | 102 | 29 | 2 | 2 | 46 |
+| last180d | 2026-04-06 | 75 | 123 | 35 | 4 | 6 | 65 |
+| 360d | 2025-10-08 | 84 | 153 | 45 | 7 | 15 | 96 |
+| last720d | 2024-10-13 | 100 | 277 | 53 | 19 | 37 | 218 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:38:46Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:23:47Z._
