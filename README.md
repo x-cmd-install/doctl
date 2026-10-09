@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.179.0` (2026-10-07)
+- **Latest**: `v1.179.0-beta.1` (2026-10-07)
 - **Last commit**: 2026-10-07
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,454 · **Forks**: 511 · **Open issues**: 536 · **Contributors**: 266
+- **Stars**: 3,454 · **Forks**: 513 · **Open issues**: 536 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 1291 · **Open PRs**: 61 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2633
+- **Releases**: 282 · **Merged PRs**: 1291 · **Open PRs**: 66 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 22 | 44 | 21 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 49 | 86 | 25 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 59 | 102 | 31 | 2 | 2 | 0 |
-| last180d | 2026-04-11 | 77 | 126 | 38 | 4 | 6 | 0 |
-| 360d | 2025-10-13 | 86 | 155 | 46 | 7 | 14 | 0 |
-| last720d | 2024-10-18 | 100 | 275 | 56 | 18 | 37 | 218 |
+| 30d | 2026-09-09 | 23 | 41 | 26 | 0 | 0 | 29 |
+| last60d | 2026-08-10 | 50 | 84 | 30 | 0 | 0 | 34 |
+| 90d | 2026-07-11 | 59 | 102 | 36 | 2 | 2 | 46 |
+| last180d | 2026-04-12 | 78 | 126 | 43 | 4 | 6 | 66 |
+| 360d | 2025-10-14 | 87 | 154 | 51 | 7 | 13 | 96 |
+| last720d | 2024-10-19 | 100 | 275 | 61 | 18 | 36 | 217 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:06:07Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:07:07Z._
