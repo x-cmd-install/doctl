@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **1,169,159** lines of code across **4123** files in the top 5 languages.
+Total: **1,169,312** lines of code across **4123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,091,756 | 157,379 | 114,224 | 3662 |
+| Go | 1,091,909 | 157,394 | 114,233 | 3662 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -42,43 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.184.0` (2026-10-13)
+- **Latest**: `v1.185.0` (2026-10-13)
 - **Last commit**: 2026-10-13
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,456 · **Forks**: 515 · **Open issues**: 536 · **Contributors**: 269
+- **Stars**: 3,457 · **Forks**: 517 · **Open issues**: 536 · **Contributors**: 269
 
 ## Totals (cumulative)
 
-- **Releases**: 287 · **Merged PRs**: 1304 · **Open PRs**: 65 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2645
+- **Releases**: 288 · **Merged PRs**: 1306 · **Open PRs**: 68 · **Closed issues**: 427 · **Open issues**: 109 · **Commits**: 2646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 26 | 53 | 24 | 0 | 0 | 39 |
-| last60d | 2026-08-14 | 52 | 92 | 29 | 0 | 0 | 46 |
-| 90d | 2026-07-15 | 64 | 113 | 33 | 2 | 1 | 56 |
-| last180d | 2026-04-16 | 83 | 138 | 41 | 4 | 6 | 77 |
-| 360d | 2025-10-18 | 92 | 166 | 49 | 7 | 13 | 105 |
-| last720d | 2024-10-23 | 100 | 287 | 60 | 18 | 36 | 227 |
+| 30d | 2026-09-14 | 26 | 55 | 27 | 0 | 0 | 40 |
+| last60d | 2026-08-15 | 53 | 94 | 32 | 0 | 0 | 47 |
+| 90d | 2026-07-16 | 65 | 114 | 35 | 2 | 1 | 57 |
+| last180d | 2026-04-17 | 83 | 140 | 44 | 4 | 6 | 78 |
+| 360d | 2025-10-19 | 93 | 167 | 52 | 7 | 13 | 106 |
+| last720d | 2024-10-24 | 100 | 288 | 63 | 18 | 36 | 227 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [doctl-1.184.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-checksums.sha256) | 881 B | `other` |
-| [doctl-1.184.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-darwin-amd64.tar.gz) | 23.0 MiB | `native/darwin/x64` |
-| [doctl-1.184.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-darwin-arm64.tar.gz) | 21.6 MiB | `native/darwin/arm64` |
-| [doctl-1.184.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-linux-386.tar.gz) | 20.8 MiB | `native/unknown` |
-| [doctl-1.184.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-linux-amd64.tar.gz) | 22.0 MiB | `native/linux/x64` |
-| [doctl-1.184.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-linux-arm64.tar.gz) | 20.1 MiB | `native/linux/arm64` |
-| [doctl-1.184.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-source.tar.gz) | 10.1 MiB | `native/unknown` |
-| [doctl-1.184.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-windows-386.zip) | 21.5 MiB | `native/win/x64` |
-| [doctl-1.184.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-windows-amd64.zip) | 22.4 MiB | `native/win/x64` |
-| [doctl-1.184.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v1.184.0/doctl-1.184.0-windows-arm64.zip) | 20.4 MiB | `native/win/arm64` |
+| [doctl-1.185.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-checksums.sha256) | 881 B | `other` |
+| [doctl-1.185.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-darwin-amd64.tar.gz) | 23.0 MiB | `native/darwin/x64` |
+| [doctl-1.185.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-darwin-arm64.tar.gz) | 21.6 MiB | `native/darwin/arm64` |
+| [doctl-1.185.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-386.tar.gz) | 20.8 MiB | `native/unknown` |
+| [doctl-1.185.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-amd64.tar.gz) | 22.0 MiB | `native/linux/x64` |
+| [doctl-1.185.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-arm64.tar.gz) | 20.1 MiB | `native/linux/arm64` |
+| [doctl-1.185.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-source.tar.gz) | 10.1 MiB | `native/unknown` |
+| [doctl-1.185.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-386.zip) | 21.5 MiB | `native/win/x64` |
+| [doctl-1.185.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-amd64.zip) | 22.4 MiB | `native/win/x64` |
+| [doctl-1.185.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-arm64.zip) | 20.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:55:30Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:57:10Z._
