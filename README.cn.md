@@ -14,11 +14,11 @@ x install doctl
 
 ## 代码洞察
 
-合计: **1,169,312** 行代码（覆盖前 5 种语言、共 **4123** 个文件）。
+合计: **1,175,786** 行代码（覆盖前 5 种语言、共 **4144** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,091,909 | 157,394 | 114,233 | 3662 |
+| Go | 1,098,383 | 159,115 | 115,720 | 3683 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -42,8 +42,8 @@ x install doctl
 
 ## 发布
 
-- **最新版本**: `v1.185.0` (2026-10-13)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v2.0.0` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -52,33 +52,33 @@ x install doctl
 
 ## 累计统计
 
-- **发布数**: 288 · **已合并 PR**: 1306 · **开放 PR**: 68 · **已关闭 issue**: 427 · **开放 issue**: 109 · **提交数**: 2646
+- **发布数**: 290 · **已合并 PR**: 1309 · **开放 PR**: 66 · **已关闭 issue**: 427 · **开放 issue**: 109 · **提交数**: 2649
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 26 | 55 | 27 | 0 | 0 | 40 |
-| last60d | 2026-08-15 | 53 | 94 | 32 | 0 | 0 | 47 |
-| 90d | 2026-07-16 | 65 | 114 | 35 | 2 | 1 | 57 |
-| last180d | 2026-04-17 | 83 | 140 | 44 | 4 | 6 | 78 |
-| 360d | 2025-10-19 | 93 | 167 | 52 | 7 | 13 | 106 |
-| last720d | 2024-10-24 | 100 | 288 | 63 | 18 | 36 | 227 |
+| 30d | 2026-09-15 | 27 | 51 | 26 | 0 | 0 | 43 |
+| last60d | 2026-08-16 | 55 | 97 | 30 | 0 | 0 | 50 |
+| 90d | 2026-07-17 | 67 | 117 | 32 | 2 | 0 | 60 |
+| last180d | 2026-04-18 | 85 | 143 | 42 | 4 | 6 | 81 |
+| 360d | 2025-10-20 | 94 | 170 | 50 | 7 | 13 | 109 |
+| last720d | 2024-10-25 | 100 | 289 | 61 | 18 | 36 | 229 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [doctl-1.185.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-checksums.sha256) | 881 B | `other` |
-| [doctl-1.185.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-darwin-amd64.tar.gz) | 23.0 MiB | `native/darwin/x64` |
-| [doctl-1.185.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-darwin-arm64.tar.gz) | 21.6 MiB | `native/darwin/arm64` |
-| [doctl-1.185.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-386.tar.gz) | 20.8 MiB | `native/unknown` |
-| [doctl-1.185.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-amd64.tar.gz) | 22.0 MiB | `native/linux/x64` |
-| [doctl-1.185.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-linux-arm64.tar.gz) | 20.1 MiB | `native/linux/arm64` |
-| [doctl-1.185.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-source.tar.gz) | 10.1 MiB | `native/unknown` |
-| [doctl-1.185.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-386.zip) | 21.5 MiB | `native/win/x64` |
-| [doctl-1.185.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-amd64.zip) | 22.4 MiB | `native/win/x64` |
-| [doctl-1.185.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v1.185.0/doctl-1.185.0-windows-arm64.zip) | 20.4 MiB | `native/win/arm64` |
+| [doctl-2.0.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-checksums.sha256) | 863 B | `other` |
+| [doctl-2.0.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-darwin-amd64.tar.gz) | 23.2 MiB | `native/darwin/x64` |
+| [doctl-2.0.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-darwin-arm64.tar.gz) | 21.8 MiB | `native/darwin/arm64` |
+| [doctl-2.0.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-linux-386.tar.gz) | 21.0 MiB | `native/unknown` |
+| [doctl-2.0.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-linux-amd64.tar.gz) | 22.2 MiB | `native/linux/x64` |
+| [doctl-2.0.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-linux-arm64.tar.gz) | 20.3 MiB | `native/linux/arm64` |
+| [doctl-2.0.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-source.tar.gz) | 10.2 MiB | `native/unknown` |
+| [doctl-2.0.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-windows-386.zip) | 21.7 MiB | `native/win/x64` |
+| [doctl-2.0.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-windows-amd64.zip) | 22.6 MiB | `native/win/x64` |
+| [doctl-2.0.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-windows-arm64.zip) | 20.5 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ doctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:57:11Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:37:19Z._
