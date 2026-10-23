@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **1,178,524** lines of code across **4147** files in the top 5 languages.
+Total: **1,184,355** lines of code across **4183** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,101,121 | 159,375 | 115,893 | 3686 |
+| Go | 1,106,951 | 159,982 | 116,738 | 3722 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.0.0` (2026-10-14)
-- **Last commit**: 2026-10-21
+- **Latest**: `v2.0.0-beta.2` (2026-10-14)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 525 · **Open issues**: 537 · **Contributors**: 274
+- **Stars**: 3,455 · **Forks**: 525 · **Open issues**: 537 · **Contributors**: 276
 
 ## Totals (cumulative)
 
-- **Releases**: 290 · **Merged PRs**: 1323 · **Open PRs**: 73 · **Closed issues**: 427 · **Open issues**: 110 · **Commits**: 2658
+- **Releases**: 292 · **Merged PRs**: 1324 · **Open PRs**: 75 · **Closed issues**: 427 · **Open issues**: 110 · **Commits**: 2659
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 20 | 50 | 31 | 0 | 1 | 42 |
-| last60d | 2026-08-23 | 49 | 105 | 37 | 0 | 1 | 59 |
-| 90d | 2026-07-24 | 65 | 126 | 39 | 1 | 1 | 66 |
-| last180d | 2026-04-25 | 85 | 155 | 49 | 4 | 7 | 90 |
-| 360d | 2025-10-27 | 94 | 183 | 57 | 7 | 13 | 118 |
-| last720d | 2024-11-01 | 100 | 300 | 68 | 18 | 35 | 234 |
+| 30d | 2026-09-23 | 18 | 49 | 29 | 0 | 1 | 43 |
+| last60d | 2026-08-24 | 51 | 101 | 37 | 0 | 1 | 60 |
+| 90d | 2026-07-25 | 67 | 127 | 41 | 1 | 1 | 67 |
+| last180d | 2026-04-26 | 87 | 156 | 51 | 4 | 7 | 91 |
+| 360d | 2025-10-28 | 96 | 184 | 59 | 6 | 13 | 119 |
+| last720d | 2024-11-02 | 100 | 301 | 70 | 18 | 35 | 235 |
 
 ## Release assets
 
@@ -80,6 +80,19 @@ Lowest-scoring checks:
 | [doctl-2.0.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-windows-amd64.zip) | 22.6 MiB | `native/win/x64` |
 | [doctl-2.0.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.0/doctl-2.0.0-windows-arm64.zip) | 20.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **9** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.0.0` | ✅ latest |
+| Homebrew | `2.0.0` | ✅ latest |
+| Fedora rawhide | `2.0.0` | ✅ latest |
+| Nix unstable | `1.169.0` | ⚠️ outdated |
+| Void | `1.166.0` | ⚠️ outdated |
+| Alpine edge | `1.169.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:44:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:52:03Z._
