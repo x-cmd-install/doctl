@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 18 | 50 | 26 | 0 | 1 | 47 |
-| last60d | 2026-08-25 | 50 | 104 | 37 | 0 | 1 | 64 |
-| 90d | 2026-07-26 | 68 | 131 | 41 | 1 | 1 | 71 |
-| last180d | 2026-04-27 | 88 | 160 | 50 | 4 | 7 | 95 |
-| 360d | 2025-10-29 | 97 | 188 | 59 | 6 | 13 | 123 |
-| last720d | 2024-11-03 | 100 | 305 | 70 | 18 | 35 | 239 |
+| 30d | 2026-09-25 | 17 | 46 | 27 | 0 | 1 | 47 |
+| last60d | 2026-08-26 | 49 | 100 | 37 | 0 | 1 | 64 |
+| 90d | 2026-07-27 | 68 | 130 | 40 | 1 | 1 | 71 |
+| last180d | 2026-04-28 | 88 | 160 | 50 | 4 | 7 | 95 |
+| 360d | 2025-10-30 | 97 | 188 | 59 | 6 | 13 | 123 |
+| last720d | 2024-11-04 | 100 | 305 | 70 | 18 | 35 | 239 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:32:02Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:42:53Z._
