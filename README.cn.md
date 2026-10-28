@@ -14,11 +14,11 @@ x install doctl
 
 ## 代码洞察
 
-合计: **1,184,935** 行代码（覆盖前 5 种语言、共 **4183** 个文件）。
+合计: **1,186,160** 行代码（覆盖前 5 种语言、共 **4187** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,107,531 | 160,149 | 116,809 | 3722 |
+| Go | 1,108,756 | 160,336 | 116,952 | 3726 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -42,52 +42,52 @@ x install doctl
 
 ## 发布
 
-- **最新版本**: `v2.0.1` (2026-10-26)
-- **最近提交**: 2026-10-26
+- **最新版本**: `v2.1.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 3,455 · **Fork**: 528 · **开放 issue**: 537 · **贡献者**: 276
+- **Star**: 3,454 · **Fork**: 528 · **开放 issue**: 537 · **贡献者**: 277
 
 ## 累计统计
 
-- **发布数**: 294 · **已合并 PR**: 1330 · **开放 PR**: 78 · **已关闭 issue**: 427 · **开放 issue**: 110 · **提交数**: 2665
+- **发布数**: 295 · **已合并 PR**: 1335 · **开放 PR**: 75 · **已关闭 issue**: 427 · **开放 issue**: 110 · **提交数**: 2670
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 17 | 47 | 30 | 0 | 1 | 34 |
-| last60d | 2026-08-28 | 45 | 100 | 39 | 0 | 1 | 63 |
-| 90d | 2026-07-29 | 68 | 131 | 43 | 1 | 1 | 67 |
-| last180d | 2026-04-30 | 89 | 162 | 53 | 4 | 7 | 97 |
-| 360d | 2025-11-01 | 98 | 190 | 62 | 6 | 13 | 124 |
-| last720d | 2024-11-06 | 100 | 304 | 73 | 18 | 35 | 240 |
+| 30d | 2026-09-28 | 18 | 51 | 27 | 0 | 1 | 39 |
+| last60d | 2026-08-29 | 45 | 105 | 37 | 0 | 1 | 68 |
+| 90d | 2026-07-30 | 69 | 133 | 41 | 1 | 1 | 72 |
+| last180d | 2026-05-01 | 90 | 167 | 50 | 4 | 7 | 102 |
+| 360d | 2025-11-02 | 99 | 195 | 59 | 6 | 13 | 129 |
+| last720d | 2024-11-07 | 100 | 309 | 70 | 18 | 35 | 245 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [doctl-2.0.1-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-checksums.sha256) | 863 B | `other` |
-| [doctl-2.0.1-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-darwin-amd64.tar.gz) | 23.5 MiB | `native/darwin/x64` |
-| [doctl-2.0.1-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-darwin-arm64.tar.gz) | 22.1 MiB | `native/darwin/arm64` |
-| [doctl-2.0.1-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-linux-386.tar.gz) | 21.3 MiB | `native/unknown` |
-| [doctl-2.0.1-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-linux-amd64.tar.gz) | 22.5 MiB | `native/linux/x64` |
-| [doctl-2.0.1-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-linux-arm64.tar.gz) | 20.6 MiB | `native/linux/arm64` |
-| [doctl-2.0.1-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-source.tar.gz) | 32.0 MiB | `native/unknown` |
-| [doctl-2.0.1-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-windows-386.zip) | 22.0 MiB | `native/win/x64` |
-| [doctl-2.0.1-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-windows-amd64.zip) | 22.9 MiB | `native/win/x64` |
-| [doctl-2.0.1-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.0.1/doctl-2.0.1-windows-arm64.zip) | 20.8 MiB | `native/win/arm64` |
+| [doctl-2.1.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-checksums.sha256) | 863 B | `other` |
+| [doctl-2.1.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-darwin-amd64.tar.gz) | 23.6 MiB | `native/darwin/x64` |
+| [doctl-2.1.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-darwin-arm64.tar.gz) | 22.1 MiB | `native/darwin/arm64` |
+| [doctl-2.1.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-linux-386.tar.gz) | 21.3 MiB | `native/unknown` |
+| [doctl-2.1.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-linux-amd64.tar.gz) | 22.5 MiB | `native/linux/x64` |
+| [doctl-2.1.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-linux-arm64.tar.gz) | 20.6 MiB | `native/linux/arm64` |
+| [doctl-2.1.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-source.tar.gz) | 32.0 MiB | `native/unknown` |
+| [doctl-2.1.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-386.zip) | 22.0 MiB | `native/win/x64` |
+| [doctl-2.1.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-amd64.zip) | 22.9 MiB | `native/win/x64` |
+| [doctl-2.1.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-arm64.zip) | 20.9 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/doctl) 上共有 **81** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**65** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/doctl) 上共有 **81** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**62** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `2.0.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Arch | `2.0.1` | ✅ latest |
+| Homebrew | `2.0.1` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ doctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T06:02:38Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:41:25Z._
