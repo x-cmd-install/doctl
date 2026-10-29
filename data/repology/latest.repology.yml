@@ -1,14 +1,23 @@
-- repo: alpine_3_17
-  subrepo: community
+- repo: nix_stable_25_05
   srcname: doctl
-  binname: doctl-fish-completion
-  visiblename: doctl-fish-completion
-  version: 1.87.0
-  origversion: 1.87.0-r4
+  visiblename: doctl
+  version: 1.125.1
+  origversion: null
   status: outdated
-  summary: Fish completions for doctl
+  summary: Command line tool for DigitalOcean services
   maintainers:
-    - wpsinatra@gmail.com
+    - langston.barrett@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: doctl
+  binname: doctl
+  visiblename: doctl
+  version: 2.0.0
+  origversion: 2.0.0-1
+  status: outdated
+  summary: The official command line interface for the DigitalOcean API
   licenses:
     - Apache-2.0
 - repo: alpine_3_17
@@ -22,6 +31,17 @@
   summary: Bash completions for doctl
   maintainers:
     - wpsinatra@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: doctl
+  visiblename: doctl
+  version: 1.106.0
+  origversion: null
+  status: outdated
+  summary: A command line tool for DigitalOcean services
+  maintainers:
+    - langston.barrett@gmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_17
@@ -46,6 +66,19 @@
   origversion: 1.87.0-r4
   status: outdated
   summary: Official command line interface for the DigitalOcean API
+  maintainers:
+    - wpsinatra@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: doctl
+  binname: doctl-fish-completion
+  visiblename: doctl-fish-completion
+  version: 1.87.0
+  origversion: 1.87.0-r4
+  status: outdated
+  summary: Fish completions for doctl
   maintainers:
     - wpsinatra@gmail.com
   licenses:
@@ -373,17 +406,6 @@
   summary: Official command line interface for the DigitalOcean API
   maintainers:
     - wpsinatra@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: doctl
-  visiblename: doctl
-  version: 1.106.0
-  origversion: null
-  status: outdated
-  summary: A command line tool for DigitalOcean services
-  maintainers:
-    - langston.barrett@gmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_24
@@ -482,8 +504,8 @@
   srcname: doctl
   binname: doctl
   visiblename: doctl
-  version: 2.0.1
-  origversion: 2.0.1-1
+  version: 2.1.0
+  origversion: 2.1.0-1
   status: newest
   summary: The official command line interface for the DigitalOcean API
   licenses:
@@ -531,22 +553,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: doctl
-  binnames:
-    - doctl
-    - doctl-debuginfo
-    - doctl-debugsource
-  visiblename: doctl
-  version: 1.104.0
-  origversion: 1.104.0-1.fc40
-  status: legacy
-  summary: The official command line interface for the DigitalOcean API
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: doctl
   binnames:
@@ -562,7 +568,7 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: release
   srcname: doctl
   binnames:
@@ -571,7 +577,7 @@
     - doctl-debugsource
   visiblename: doctl
   version: 1.104.0
-  origversion: 1.104.0-3.fc41
+  origversion: 1.104.0-1.fc40
   status: legacy
   summary: The official command line interface for the DigitalOcean API
   licenses:
@@ -594,20 +600,20 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: fedora_42
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: doctl
   binnames:
     - doctl
     - doctl-debuginfo
     - doctl-debugsource
   visiblename: doctl
-  version: 1.154.0
-  origversion: 1.154.0-1.fc42
-  status: outdated
+  version: 1.104.0
+  origversion: 1.104.0-3.fc41
+  status: legacy
   summary: The official command line interface for the DigitalOcean API
   licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+    - Apache-2.0
   categories:
     - Unspecified
 - repo: fedora_42
@@ -624,6 +630,22 @@
   summary: The official command line interface for the DigitalOcean API
   licenses:
     - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: doctl
+  binnames:
+    - doctl
+    - doctl-debuginfo
+    - doctl-debugsource
+  visiblename: doctl
+  version: 1.154.0
+  origversion: 1.154.0-1.fc42
+  status: outdated
+  summary: The official command line interface for the DigitalOcean API
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_43
@@ -658,17 +680,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: nix_stable_24_11
-  srcname: doctl
-  visiblename: doctl
-  version: 1.116.0
-  origversion: null
-  status: outdated
-  summary: Command line tool for DigitalOcean services
-  maintainers:
-    - langston.barrett@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: fedora_44
   subrepo: updates
   srcname: doctl
@@ -717,6 +728,20 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: solus
+  srcname: doctl
+  binname: doctl-dbginfo
+  visiblename: doctl-dbginfo
+  version: 1.175.0
+  origversion: null
+  status: outdated
+  summary: Debug symbols for doctl
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+  categories:
+    - debug
 - repo: freebsd
   srcname: sysutils/doctl
   binname: doctl
@@ -767,6 +792,17 @@
     - MPL-2.0
   categories:
     - app-admin
+- repo: nix_stable_24_11
+  srcname: doctl
+  visiblename: doctl
+  version: 1.116.0
+  origversion: null
+  status: outdated
+  summary: Command line tool for DigitalOcean services
+  maintainers:
+    - langston.barrett@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: app-admin/doctl
   visiblename: app-admin/doctl
@@ -797,7 +833,7 @@
 - repo: homebrew
   srcname: doctl
   visiblename: doctl
-  version: 2.0.1
+  version: 2.1.0
   origversion: null
   status: newest
   summary: Command-line tool for DigitalOcean
@@ -846,15 +882,6 @@
     - MPL-2.0
   categories:
     - app-admin
-- repo: scoop
-  subrepo: main
-  binname: doctl
-  visiblename: doctl
-  version: 2.0.1
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: liguros_stable
   srcname: app-admin/doctl
   visiblename: app-admin/doctl
@@ -969,28 +996,6 @@
   summary: The official command line interface for the DigitalOcean API
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: doctl
-  binname: doctl
-  visiblename: doctl
-  version: 2.0.0
-  origversion: 2.0.0-1
-  status: outdated
-  summary: The official command line interface for the DigitalOcean API
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: doctl
-  visiblename: doctl
-  version: 1.125.1
-  origversion: null
-  status: outdated
-  summary: Command line tool for DigitalOcean services
-  maintainers:
-    - langston.barrett@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: doctl
   visiblename: doctl
@@ -1029,10 +1034,19 @@
   srcname: doctl
   binname: doctl
   visiblename: doctl
-  version: 2.0.1
-  origversion: 2.0.1-1
+  version: 2.1.0
+  origversion: 2.1.0-1
   status: newest
   summary: The official command line interface for the DigitalOcean API
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: doctl
+  visiblename: doctl
+  version: 2.1.0
+  origversion: null
+  status: newest
   licenses:
     - Apache-2.0
 - repo: solus
@@ -1049,24 +1063,10 @@
     - Apache-2.0
   categories:
     - network.clients
-- repo: solus
-  srcname: doctl
-  binname: doctl-dbginfo
-  visiblename: doctl-dbginfo
-  version: 1.175.0
-  origversion: null
-  status: outdated
-  summary: Debug symbols for doctl
-  maintainers:
-    - david@davidjharder.ca
-  licenses:
-    - Apache-2.0
-  categories:
-    - debug
 - repo: t2
   srcname: doctl
   visiblename: doctl
-  version: 2.0.1
+  version: 2.1.0
   origversion: null
   status: newest
   summary: Official command line interface for the DigitalOcean API
@@ -1080,7 +1080,7 @@
   srcname: doctl
   binname: doctl
   visiblename: doctl
-  version: 2.0.1
+  version: 2.1.0
   origversion: null
   status: newest
   summary: The official command line interface for the DigitalOcean API
