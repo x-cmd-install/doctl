@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,454 · **Forks**: 529 · **Open issues**: 537 · **Contributors**: 277
+- **Stars**: 3,454 · **Forks**: 530 · **Open issues**: 537 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 295 · **Merged PRs**: 1335 · **Open PRs**: 75 · **Closed issues**: 427 · **Open issues**: 110 · **Commits**: 2670
+- **Releases**: 295 · **Merged PRs**: 1335 · **Open PRs**: 79 · **Closed issues**: 427 · **Open issues**: 110 · **Commits**: 2670
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 18 | 49 | 24 | 0 | 1 | 39 |
-| last60d | 2026-08-30 | 45 | 105 | 37 | 0 | 1 | 68 |
-| 90d | 2026-07-31 | 66 | 131 | 41 | 1 | 1 | 72 |
-| last180d | 2026-05-02 | 90 | 167 | 50 | 4 | 7 | 102 |
-| 360d | 2025-11-03 | 99 | 195 | 59 | 6 | 13 | 129 |
-| last720d | 2024-11-08 | 100 | 309 | 70 | 18 | 35 | 245 |
+| 30d | 2026-09-30 | 18 | 47 | 27 | 0 | 1 | 39 |
+| last60d | 2026-08-31 | 45 | 102 | 41 | 0 | 1 | 68 |
+| 90d | 2026-08-01 | 64 | 131 | 45 | 1 | 1 | 72 |
+| last180d | 2026-05-03 | 90 | 167 | 54 | 4 | 7 | 102 |
+| 360d | 2025-11-04 | 99 | 194 | 63 | 6 | 13 | 129 |
+| last720d | 2024-11-09 | 100 | 309 | 74 | 18 | 35 | 245 |
 
 ## Release assets
 
@@ -87,7 +87,7 @@ Reported by **81** distros on [repology.org](https://repology.org/project/doctl)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.1.0` | ✅ latest |
-| Homebrew | `2.1.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:06:31Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:53:48Z._
