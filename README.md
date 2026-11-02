@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 529 · **Open issues**: 537 · **Contributors**: 277
+- **Stars**: 3,455 · **Forks**: 530 · **Open issues**: 537 · **Contributors**: 277
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 16 | 46 | 27 | 0 | 1 | 39 |
-| last60d | 2026-09-02 | 41 | 98 | 41 | 0 | 1 | 68 |
-| 90d | 2026-08-03 | 64 | 133 | 45 | 0 | 1 | 73 |
-| last180d | 2026-05-05 | 90 | 169 | 54 | 4 | 7 | 101 |
-| 360d | 2025-11-06 | 99 | 194 | 62 | 6 | 13 | 129 |
-| last720d | 2024-11-11 | 100 | 311 | 74 | 18 | 34 | 247 |
+| 30d | 2026-10-03 | 16 | 46 | 26 | 0 | 1 | 39 |
+| last60d | 2026-09-03 | 40 | 94 | 41 | 0 | 1 | 68 |
+| 90d | 2026-08-04 | 64 | 133 | 45 | 0 | 1 | 73 |
+| last180d | 2026-05-06 | 90 | 168 | 54 | 4 | 7 | 101 |
+| 360d | 2025-11-07 | 98 | 194 | 62 | 6 | 13 | 129 |
+| last720d | 2024-11-12 | 100 | 311 | 74 | 18 | 34 | 247 |
 
 ## Release assets
 
@@ -87,7 +87,7 @@ Reported by **81** distros on [repology.org](https://repology.org/project/doctl)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.1.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.1.0` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:03:24Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:10:55Z._
