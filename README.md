@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **1,186,448** lines of code across **4187** files in the top 5 languages.
+Total: **1,186,810** lines of code across **4187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,109,043 | 160,364 | 116,985 | 3726 |
+| Go | 1,109,405 | 160,416 | 117,035 | 3726 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 531 · **Open issues**: 537 · **Contributors**: 277
+- **Stars**: 3,455 · **Forks**: 532 · **Open issues**: 538 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 295 · **Merged PRs**: 1338 · **Open PRs**: 82 · **Closed issues**: 427 · **Open issues**: 110 · **Commits**: 2673
+- **Releases**: 295 · **Merged PRs**: 1339 · **Open PRs**: 83 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2674
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 16 | 47 | 29 | 0 | 1 | 40 |
-| last60d | 2026-09-04 | 38 | 92 | 44 | 0 | 1 | 69 |
-| 90d | 2026-08-05 | 64 | 134 | 48 | 0 | 1 | 74 |
-| last180d | 2026-05-07 | 89 | 168 | 57 | 4 | 6 | 102 |
-| 360d | 2025-11-08 | 98 | 195 | 65 | 6 | 13 | 130 |
-| last720d | 2024-11-13 | 100 | 311 | 77 | 18 | 34 | 248 |
+| 30d | 2026-10-05 | 16 | 47 | 28 | 0 | 2 | 41 |
+| last60d | 2026-09-05 | 36 | 93 | 45 | 0 | 2 | 70 |
+| 90d | 2026-08-06 | 64 | 134 | 48 | 0 | 2 | 75 |
+| last180d | 2026-05-08 | 88 | 169 | 58 | 4 | 7 | 103 |
+| 360d | 2025-11-09 | 98 | 196 | 66 | 6 | 14 | 131 |
+| last720d | 2024-11-14 | 100 | 311 | 78 | 18 | 35 | 249 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:10:59Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:35:05Z._
