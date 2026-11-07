@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 298 · **Merged PRs**: 1348 · **Open PRs**: 81 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2684
+- **Releases**: 298 · **Merged PRs**: 1348 · **Open PRs**: 83 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2684
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 18 | 53 | 25 | 0 | 2 | 50 |
-| last60d | 2026-09-07 | 39 | 101 | 43 | 0 | 2 | 79 |
-| 90d | 2026-08-08 | 66 | 142 | 46 | 0 | 2 | 84 |
-| last180d | 2026-05-10 | 91 | 177 | 56 | 4 | 7 | 112 |
-| 360d | 2025-11-11 | 100 | 204 | 64 | 6 | 14 | 140 |
-| last720d | 2024-11-16 | 100 | 319 | 76 | 18 | 35 | 258 |
+| 30d | 2026-10-08 | 17 | 51 | 27 | 0 | 2 | 50 |
+| last60d | 2026-09-08 | 39 | 99 | 45 | 0 | 2 | 79 |
+| 90d | 2026-08-09 | 66 | 142 | 48 | 0 | 2 | 84 |
+| last180d | 2026-05-11 | 91 | 177 | 58 | 4 | 7 | 112 |
+| 360d | 2025-11-12 | 100 | 204 | 66 | 6 | 13 | 140 |
+| last720d | 2024-11-17 | 100 | 319 | 78 | 17 | 34 | 258 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **6** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **8** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:52:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:04:00Z._
