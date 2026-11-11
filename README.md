@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **1,190,693** lines of code across **4198** files in the top 5 languages.
+Total: **1,190,740** lines of code across **4198** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,113,288 | 160,993 | 117,565 | 3737 |
+| Go | 1,113,335 | 161,023 | 117,576 | 3737 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.3.0` (2026-11-04)
-- **Last commit**: 2026-11-09
+- **Latest**: `v2.4.0` (2026-11-10)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,42 +52,42 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 298 · **Merged PRs**: 1349 · **Open PRs**: 87 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2685
+- **Releases**: 299 · **Merged PRs**: 1350 · **Open PRs**: 89 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2686
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 14 | 42 | 31 | 0 | 2 | 35 |
-| last60d | 2026-09-11 | 37 | 96 | 48 | 0 | 2 | 80 |
-| 90d | 2026-08-12 | 64 | 138 | 52 | 0 | 2 | 85 |
-| last180d | 2026-05-14 | 91 | 178 | 62 | 4 | 7 | 111 |
-| 360d | 2025-11-15 | 100 | 205 | 70 | 6 | 13 | 141 |
-| last720d | 2024-11-20 | 100 | 320 | 82 | 17 | 34 | 255 |
+| 30d | 2026-10-12 | 14 | 42 | 32 | 0 | 2 | 36 |
+| last60d | 2026-09-12 | 38 | 97 | 50 | 0 | 2 | 81 |
+| 90d | 2026-08-13 | 65 | 137 | 54 | 0 | 2 | 86 |
+| last180d | 2026-05-15 | 91 | 179 | 64 | 4 | 7 | 112 |
+| 360d | 2025-11-16 | 100 | 206 | 72 | 6 | 13 | 142 |
+| last720d | 2024-11-21 | 100 | 319 | 84 | 17 | 34 | 256 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [doctl-2.3.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-checksums.sha256) | 863 B | `other` |
-| [doctl-2.3.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-darwin-amd64.tar.gz) | 23.9 MiB | `native/darwin/x64` |
-| [doctl-2.3.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-darwin-arm64.tar.gz) | 22.5 MiB | `native/darwin/arm64` |
-| [doctl-2.3.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-linux-386.tar.gz) | 21.7 MiB | `native/unknown` |
-| [doctl-2.3.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-linux-amd64.tar.gz) | 22.9 MiB | `native/linux/x64` |
-| [doctl-2.3.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-linux-arm64.tar.gz) | 21.0 MiB | `native/linux/arm64` |
-| [doctl-2.3.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-source.tar.gz) | 32.4 MiB | `native/unknown` |
-| [doctl-2.3.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-windows-386.zip) | 22.4 MiB | `native/win/x64` |
-| [doctl-2.3.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-windows-amd64.zip) | 23.3 MiB | `native/win/x64` |
-| [doctl-2.3.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.3.0/doctl-2.3.0-windows-arm64.zip) | 21.2 MiB | `native/win/arm64` |
+| [doctl-2.4.0-checksums.sha256](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-checksums.sha256) | 863 B | `other` |
+| [doctl-2.4.0-darwin-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-darwin-amd64.tar.gz) | 24.0 MiB | `native/darwin/x64` |
+| [doctl-2.4.0-darwin-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-darwin-arm64.tar.gz) | 22.5 MiB | `native/darwin/arm64` |
+| [doctl-2.4.0-linux-386.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-linux-386.tar.gz) | 21.7 MiB | `native/unknown` |
+| [doctl-2.4.0-linux-amd64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-linux-amd64.tar.gz) | 22.9 MiB | `native/linux/x64` |
+| [doctl-2.4.0-linux-arm64.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-linux-arm64.tar.gz) | 21.0 MiB | `native/linux/arm64` |
+| [doctl-2.4.0-source.tar.gz](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-source.tar.gz) | 32.4 MiB | `native/unknown` |
+| [doctl-2.4.0-windows-386.zip](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-windows-386.zip) | 22.4 MiB | `native/win/x64` |
+| [doctl-2.4.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-windows-amd64.zip) | 23.3 MiB | `native/win/x64` |
+| [doctl-2.4.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.4.0/doctl-2.4.0-windows-arm64.zip) | 21.2 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **9** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **5** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.3.0` | ✅ latest |
-| Homebrew | `2.3.0` | ✅ latest |
+| Arch | `2.4.0` | ✅ latest |
+| Homebrew | `2.4.0` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:40:45Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:41:25Z._
