@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 10 | 36 | 34 | 0 | 2 | 40 |
-| last60d | 2026-09-15 | 37 | 95 | 53 | 0 | 2 | 85 |
-| 90d | 2026-08-16 | 65 | 141 | 57 | 0 | 2 | 90 |
-| last180d | 2026-05-18 | 92 | 183 | 67 | 4 | 7 | 116 |
-| 360d | 2025-11-19 | 100 | 210 | 75 | 6 | 13 | 146 |
-| last720d | 2024-11-24 | 100 | 323 | 87 | 17 | 33 | 258 |
+| 30d | 2026-10-16 | 10 | 34 | 32 | 0 | 2 | 40 |
+| last60d | 2026-09-16 | 37 | 91 | 52 | 0 | 2 | 85 |
+| 90d | 2026-08-17 | 65 | 141 | 57 | 0 | 2 | 90 |
+| last180d | 2026-05-19 | 92 | 182 | 67 | 3 | 7 | 116 |
+| 360d | 2025-11-20 | 100 | 210 | 74 | 6 | 13 | 146 |
+| last720d | 2024-11-25 | 100 | 323 | 87 | 17 | 33 | 258 |
 
 ## Release assets
 
@@ -82,12 +82,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **4** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/doctl). **6** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.5.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.5.0` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:08:34Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:57:27Z._
