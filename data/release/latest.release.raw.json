@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 863,
       "digest": "sha256:57396c5969f242bff79156e4273f92767cbba0498fbfc04799dfe026fa6a7b50",
-      "download_count": 271,
+      "download_count": 378,
       "created_at": "2026-11-13T14:34:22Z",
       "updated_at": "2026-11-13T14:34:22Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 25361656,
       "digest": "sha256:b8c38e2af9ace09995713b7abab8a58024abbd6afd14c6009845ec9fc34441a7",
-      "download_count": 23,
+      "download_count": 31,
       "created_at": "2026-11-13T14:34:18Z",
       "updated_at": "2026-11-13T14:34:19Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23851091,
       "digest": "sha256:fffb8586febfc9abb582ac18ca1a6431f69bc282fe92ff33546e0f1b1f7fa0b8",
-      "download_count": 90,
+      "download_count": 125,
       "created_at": "2026-11-13T14:34:20Z",
       "updated_at": "2026-11-13T14:34:21Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24244386,
       "digest": "sha256:4901eb107ea2efb59b172094117136bd983a653b6599e2aa51b7b72d7cd98f4c",
-      "download_count": 25866,
+      "download_count": 43453,
       "created_at": "2026-11-13T14:34:20Z",
       "updated_at": "2026-11-13T14:34:21Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22234963,
       "digest": "sha256:9fb7c2898d67e760d32161eaecefd2d54ec0e077bde01b58e0fcebe5f10076b9",
-      "download_count": 267,
+      "download_count": 407,
       "created_at": "2026-11-13T14:34:20Z",
       "updated_at": "2026-11-13T14:34:21Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 33993899,
       "digest": "sha256:46243cd042b22563e4da61113f324c860309b7609b7e50ebc8f7984664ae4584",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-11-13T14:34:21Z",
       "updated_at": "2026-11-13T14:34:23Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-source.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23719203,
       "digest": "sha256:777f08db976ed0a60065cb5e09387709c86a969cc92c3276f01fbe3900968429",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-11-13T14:34:18Z",
       "updated_at": "2026-11-13T14:34:19Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-windows-386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 24689068,
       "digest": "sha256:d0fcd50834a006921aa65d07f01638803cb595db4dca42a60931ea8c5cb945c7",
-      "download_count": 337,
+      "download_count": 503,
       "created_at": "2026-11-13T14:34:18Z",
       "updated_at": "2026-11-13T14:34:20Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-windows-amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22482645,
       "digest": "sha256:61c47c2238f9f5f00952f193c3a32f47815e773005999588a6c7e23a484aa728",
-      "download_count": 34,
+      "download_count": 38,
       "created_at": "2026-11-13T14:34:18Z",
       "updated_at": "2026-11-13T14:34:19Z",
       "browser_download_url": "https://github.com/digitalocean/doctl/releases/download/v2.5.0/doctl-2.5.0-windows-arm64.zip"
