@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 537 · **Open issues**: 538 · **Contributors**: 285
+- **Stars**: 3,455 · **Forks**: 538 · **Open issues**: 538 · **Contributors**: 285
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 14 | 34 | 34 | 0 | 1 | 43 |
-| last60d | 2026-09-22 | 34 | 93 | 57 | 0 | 2 | 90 |
-| 90d | 2026-08-23 | 63 | 148 | 63 | 0 | 2 | 103 |
-| last180d | 2026-05-25 | 96 | 193 | 72 | 3 | 7 | 127 |
-| 360d | 2025-11-26 | 100 | 222 | 79 | 6 | 13 | 158 |
-| last720d | 2024-12-01 | 100 | 335 | 93 | 16 | 33 | 270 |
+| 30d | 2026-10-23 | 12 | 32 | 32 | 0 | 1 | 43 |
+| last60d | 2026-09-23 | 30 | 91 | 53 | 0 | 2 | 90 |
+| 90d | 2026-08-24 | 63 | 143 | 61 | 0 | 2 | 103 |
+| last180d | 2026-05-26 | 96 | 191 | 71 | 3 | 7 | 127 |
+| 360d | 2025-11-27 | 100 | 222 | 79 | 6 | 13 | 158 |
+| last720d | 2024-12-02 | 100 | 335 | 93 | 16 | 33 | 270 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/doctl). **6** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/doctl). **10** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,7 +91,7 @@ Reported by **83** distros on [repology.org](https://repology.org/project/doctl)
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 | Nix unstable | `1.169.0` | ⚠️ outdated |
 | Void | `1.166.0` | ⚠️ outdated |
-| Alpine edge | `2.6.0` | ⚠️ outdated |
+| Alpine edge | `2.7.0` | ✅ latest |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:30:32Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:44:14Z._
