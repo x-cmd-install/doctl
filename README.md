@@ -14,11 +14,11 @@ x install doctl
 
 ## Code insight
 
-Total: **1,194,842** lines of code across **4209** files in the top 5 languages.
+Total: **1,195,217** lines of code across **4212** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,117,437 | 161,768 | 118,020 | 3748 |
+| Go | 1,117,812 | 161,791 | 118,080 | 3751 |
 | Xml | 41,939 | 72 | 32 | 324 |
 | Yaml | 12,406 | 66 | 347 | 14 |
 | AssemblyGAS | 12,345 | 1,169 | 2,742 | 67 |
@@ -26,7 +26,7 @@ Total: **1,194,842** lines of code across **4209** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.0` (2026-11-19)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 538 · **Open issues**: 538 · **Contributors**: 285
+- **Stars**: 3,455 · **Forks**: 539 · **Open issues**: 538 · **Contributors**: 285
 
 ## Totals (cumulative)
 
-- **Releases**: 304 · **Merged PRs**: 1367 · **Open PRs**: 98 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2703
+- **Releases**: 304 · **Merged PRs**: 1369 · **Open PRs**: 97 · **Closed issues**: 427 · **Open issues**: 111 · **Commits**: 2705
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 12 | 32 | 32 | 0 | 1 | 43 |
-| last60d | 2026-09-23 | 30 | 91 | 53 | 0 | 2 | 90 |
-| 90d | 2026-08-24 | 63 | 143 | 61 | 0 | 2 | 103 |
-| last180d | 2026-05-26 | 96 | 191 | 71 | 3 | 7 | 127 |
-| 360d | 2025-11-27 | 100 | 222 | 79 | 6 | 13 | 158 |
-| last720d | 2024-12-02 | 100 | 335 | 93 | 16 | 33 | 270 |
+| 30d | 2026-10-24 | 11 | 34 | 31 | 0 | 1 | 34 |
+| last60d | 2026-09-24 | 29 | 90 | 50 | 0 | 2 | 81 |
+| 90d | 2026-08-25 | 61 | 144 | 60 | 0 | 2 | 105 |
+| last180d | 2026-05-27 | 96 | 193 | 70 | 3 | 7 | 126 |
+| 360d | 2025-11-28 | 100 | 224 | 78 | 6 | 13 | 160 |
+| last720d | 2024-12-03 | 100 | 336 | 92 | 16 | 33 | 272 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:44:14Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:23:49Z._
