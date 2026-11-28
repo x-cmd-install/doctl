@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 14 | 48 | 25 | 0 | 1 | 54 |
-| last60d | 2026-09-28 | 31 | 104 | 45 | 0 | 2 | 101 |
-| 90d | 2026-08-29 | 58 | 158 | 55 | 0 | 2 | 125 |
-| last180d | 2026-05-31 | 99 | 212 | 66 | 3 | 7 | 146 |
-| 360d | 2025-12-02 | 100 | 244 | 74 | 6 | 13 | 180 |
-| last720d | 2024-12-07 | 100 | 350 | 87 | 16 | 32 | 290 |
+| 30d | 2026-10-29 | 13 | 45 | 25 | 0 | 1 | 54 |
+| last60d | 2026-09-29 | 31 | 102 | 43 | 0 | 2 | 101 |
+| 90d | 2026-08-30 | 58 | 158 | 55 | 0 | 2 | 125 |
+| last180d | 2026-06-01 | 99 | 212 | 66 | 3 | 6 | 146 |
+| 360d | 2025-12-03 | 100 | 244 | 74 | 6 | 13 | 180 |
+| last720d | 2024-12-08 | 100 | 350 | 87 | 16 | 32 | 290 |
 
 ## Release assets
 
@@ -80,6 +80,19 @@ Lowest-scoring checks:
 | [doctl-2.11.0-windows-amd64.zip](https://github.com/digitalocean/doctl/releases/download/v2.11.0/doctl-2.11.0-windows-amd64.zip) | 24.0 MiB | `native/win/x64` |
 | [doctl-2.11.0-windows-arm64.zip](https://github.com/digitalocean/doctl/releases/download/v2.11.0/doctl-2.11.0-windows-arm64.zip) | 21.8 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **83** distros on [repology.org](https://repology.org/project/doctl). **7** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.11.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `2.0.0` | ⚠️ outdated |
+| Nix unstable | `1.169.0` | ⚠️ outdated |
+| Void | `1.166.0` | ⚠️ outdated |
+| Alpine edge | `2.8.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `doctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +102,4 @@ Install metadata for doctl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:26:23Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:15:35Z._
