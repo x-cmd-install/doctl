@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: "v2.2.0"
-  collectedAt: 2026-11-27T09:25:48Z
+  collectedAt: 2026-11-28T09:15:17Z
 timeline:
   created: 2015-05-29
   lastCommit: 2026-11-27
@@ -31,23 +31,23 @@ language:
 totalBytes: 7246135
 recent:
   last30d:
-    since: 2026-10-28
-    release: 14
-    mergedPR: 48
+    since: 2026-10-29
+    release: 13
+    mergedPR: 45
     openPR: 25
     closedIssue: 0
     openIssue: 1
     commit: 54
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 31
-    mergedPR: 104
-    openPR: 45
+    mergedPR: 102
+    openPR: 43
     closedIssue: 0
     openIssue: 2
     commit: 101
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 58
     mergedPR: 158
     openPR: 55
@@ -55,15 +55,15 @@ recent:
     openIssue: 2
     commit: 125
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 99
     mergedPR: 212
     openPR: 66
     closedIssue: 3
-    openIssue: 7
+    openIssue: 6
     commit: 146
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
     mergedPR: 244
     openPR: 74
@@ -71,7 +71,7 @@ recent:
     openIssue: 13
     commit: 180
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 350
     openPR: 87
@@ -87,7 +87,7 @@ total:
   commit: 2725
 ---
 path: /home/runner/.x-repo/github.com/digitalocean/doctl
-collectedAt: 2026-11-27T09:25:57Z
+collectedAt: 2026-11-28T09:15:25Z
 loc:
   Go:
     code: 1127865
@@ -312,4 +312,4 @@ checks:
       - 'Info:   0 out of   3 containerImage dependencies pinned'
       - 'Info:   1 out of   3 goCommand dependencies pinned'
 ---
-{"id":459219595,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAi1mvs4bXyKL","tag_name":"v2.11.0","target_commitish":"main","name":"v2.11.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-26T09:45:32Z","updated_at":"2026-11-26T09:52:31Z","published_at":"2026-11-26T09:52:31Z","assets":[{"id":795241666,"node_id":"RA_kwDOAi1mvs4vZmzC","name":"doctl-2.11.0-checksums.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":872,"digest":"sha256:2fe6bf535443985df3c53ee91b0a216f02d774b6e50783bfa321d5b93dba3c43","download_count":211,"created_at":"2026-11-26T09:52:28Z","updated_at":"2026-11-26T09:52:28Z"},{"id":795241387,"node_id":"RA_kwDOAi1mvs4vZmur","name":"doctl-2.11.0-darwin-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":25807658,"digest":"sha256:160c6c5423878d5b04df129bef421a2d67a956569f6cdfcfac46935da7c39b53","download_count":18,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:26Z"},{"id":795241589,"node_id":"RA_kwDOAi1mvs4vZmx1","name":"doctl-2.11.0-darwin-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":24268626,"digest":"sha256:84c2809ba65cff06597f6b75531f18db63893e367d19769fafec0e11343dce6b","download_count":71,"created_at":"2026-11-26T09:52:27Z","updated_at":"2026-11-26T09:52:28Z"},{"id":795241538,"node_id":"RA_kwDOAi1mvs4vZmxC","name":"doctl-2.11.0-linux-386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":23448990,"digest":"sha256:5e3f46e2c404927a123ec7608fc501744fd7ff37a36fbf7335daa4217017fce3","download_count":5,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"},{"id":795241544,"node_id":"RA_kwDOAi1mvs4vZmxI","name":"doctl-2.11.0-linux-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":24685757,"digest":"sha256:450bee1a6b7564971349992f7f57951635ad5cc62426ca0e0663bedb66dc3bfe","download_count":17598,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"},{"id":795241393,"node_id":"RA_kwDOAi1mvs4vZmux","name":"doctl-2.11.0-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":22636087,"digest":"sha256:cbd32db3b9c13ff75222b90156e9f934c7af93cac8b5bab39fd4600b24aa5388","download_count":343,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241642,"node_id":"RA_kwDOAi1mvs4vZmyq","name":"doctl-2.11.0-source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":34105745,"digest":"sha256:d69cd401c811f0ec554a396e6f59a9905eeccf436f3ed2f371b381abc7662b14","download_count":5,"created_at":"2026-11-26T09:52:28Z","updated_at":"2026-11-26T09:52:30Z"},{"id":795241386,"node_id":"RA_kwDOAi1mvs4vZmuq","name":"doctl-2.11.0-windows-386.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":24147909,"digest":"sha256:3f602891c488ec07f64e5708c7e1dc87ce8db5a16ad8f4c02dd2edd42682068a","download_count":20,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241395,"node_id":"RA_kwDOAi1mvs4vZmuz","name":"doctl-2.11.0-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":25125615,"digest":"sha256:7f2f4a9772008f4504e29f8ed92d0a2dd8f481a6e4172cae631ff01accb794a2","download_count":173,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241527,"node_id":"RA_kwDOAi1mvs4vZmw3","name":"doctl-2.11.0-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":22883863,"digest":"sha256:d4f3e03412d69b67a1c4ec5a11717dbc2bac0327b683811ccfa120d702fc76be","download_count":24,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"}],"body":"## Changelog\n* e2e104dce6d1da7f478a8472ee9e8658f734ff88 harness-runtime update: document custom MCP server updates (#2153)\n* ae0d8d8481ed1d4a9616cb0434ba8cdd87fc9894 hand OpenCode proxy password via env, not argv (#2156)\n\n"}
+{"id":459219595,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAi1mvs4bXyKL","tag_name":"v2.11.0","target_commitish":"main","name":"v2.11.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-26T09:45:32Z","updated_at":"2026-11-26T09:52:31Z","published_at":"2026-11-26T09:52:31Z","assets":[{"id":795241666,"node_id":"RA_kwDOAi1mvs4vZmzC","name":"doctl-2.11.0-checksums.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":872,"digest":"sha256:2fe6bf535443985df3c53ee91b0a216f02d774b6e50783bfa321d5b93dba3c43","download_count":330,"created_at":"2026-11-26T09:52:28Z","updated_at":"2026-11-26T09:52:28Z"},{"id":795241387,"node_id":"RA_kwDOAi1mvs4vZmur","name":"doctl-2.11.0-darwin-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":25807658,"digest":"sha256:160c6c5423878d5b04df129bef421a2d67a956569f6cdfcfac46935da7c39b53","download_count":30,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:26Z"},{"id":795241589,"node_id":"RA_kwDOAi1mvs4vZmx1","name":"doctl-2.11.0-darwin-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":24268626,"digest":"sha256:84c2809ba65cff06597f6b75531f18db63893e367d19769fafec0e11343dce6b","download_count":145,"created_at":"2026-11-26T09:52:27Z","updated_at":"2026-11-26T09:52:28Z"},{"id":795241538,"node_id":"RA_kwDOAi1mvs4vZmxC","name":"doctl-2.11.0-linux-386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":23448990,"digest":"sha256:5e3f46e2c404927a123ec7608fc501744fd7ff37a36fbf7335daa4217017fce3","download_count":11,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"},{"id":795241544,"node_id":"RA_kwDOAi1mvs4vZmxI","name":"doctl-2.11.0-linux-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":24685757,"digest":"sha256:450bee1a6b7564971349992f7f57951635ad5cc62426ca0e0663bedb66dc3bfe","download_count":32347,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"},{"id":795241393,"node_id":"RA_kwDOAi1mvs4vZmux","name":"doctl-2.11.0-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":22636087,"digest":"sha256:cbd32db3b9c13ff75222b90156e9f934c7af93cac8b5bab39fd4600b24aa5388","download_count":606,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241642,"node_id":"RA_kwDOAi1mvs4vZmyq","name":"doctl-2.11.0-source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":34105745,"digest":"sha256:d69cd401c811f0ec554a396e6f59a9905eeccf436f3ed2f371b381abc7662b14","download_count":19,"created_at":"2026-11-26T09:52:28Z","updated_at":"2026-11-26T09:52:30Z"},{"id":795241386,"node_id":"RA_kwDOAi1mvs4vZmuq","name":"doctl-2.11.0-windows-386.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":24147909,"digest":"sha256:3f602891c488ec07f64e5708c7e1dc87ce8db5a16ad8f4c02dd2edd42682068a","download_count":31,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241395,"node_id":"RA_kwDOAi1mvs4vZmuz","name":"doctl-2.11.0-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":25125615,"digest":"sha256:7f2f4a9772008f4504e29f8ed92d0a2dd8f481a6e4172cae631ff01accb794a2","download_count":335,"created_at":"2026-11-26T09:52:23Z","updated_at":"2026-11-26T09:52:25Z"},{"id":795241527,"node_id":"RA_kwDOAi1mvs4vZmw3","name":"doctl-2.11.0-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":22883863,"digest":"sha256:d4f3e03412d69b67a1c4ec5a11717dbc2bac0327b683811ccfa120d702fc76be","download_count":34,"created_at":"2026-11-26T09:52:26Z","updated_at":"2026-11-26T09:52:27Z"}],"body":"## Changelog\n* e2e104dce6d1da7f478a8472ee9e8658f734ff88 harness-runtime update: document custom MCP server updates (#2153)\n* ae0d8d8481ed1d4a9616cb0434ba8cdd87fc9894 hand OpenCode proxy password via env, not argv (#2156)\n\n"}
